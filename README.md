@@ -1,10 +1,6 @@
 # Spring-AxiomBank-BulletProof-Engine 🛡️
 > **High-load banking engine with zero-compromise security (If you find congrats, register on bug bounty, earn money).**
 
-![Spring Boot](https://img.shields.io/badge/Spring--Boot-3.x-brightgreen?style=flat-square)
-![Spring Security](https://img.shields.io/badge/Spring--Security-7.x-blue?style=flat-square)
-![Auth](https://img.shields.io/badge/Auth-JWT--over--Cookies-red?style=flat-square)
-
 ## ⚡ The Architecture
 This is a hardened financial backend core. While most implementations leave the door cracked open with local storage tokens, I use a fortress-first approach. 
 
@@ -27,6 +23,8 @@ Built on the **Spring Security 7.0** baseline, this engine is optimized for high
 * **PostgreSQL** (with optimized indexing for high-load)
 * **Maven**
 * **Redis**
+
+
 
 
 
